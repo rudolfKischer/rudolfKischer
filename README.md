@@ -18,5 +18,11 @@ rudolf.kischer@mail.mcgill.ca
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudolfKischer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<h2 align="center"> Rudi's Stats
+     <br><img src="https://github.com/rudolfKischer/rudolfKischer/blob/main/github-metrics.svg"><br> 
+</h2>
+
+
+
 
 
