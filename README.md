@@ -15,6 +15,8 @@ rudolf.kischer@mail.mcgill.ca
 
 1-604-809-7838
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
