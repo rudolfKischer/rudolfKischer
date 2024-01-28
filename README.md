@@ -15,6 +15,11 @@ rudolf.kischer@mail.mcgill.ca
 
 1-604-809-7838
 
+# Hackathons
+
+- McHacks 11 (2024): https://devpost.com/software/cast-bu2n57 
+- McHacks 10 (2023): https://devpost.com/software/rate-my-fit
+
 
 <h2 align="center"> Rudi's Stats
      <br><img src="https://github.com/rudolfKischer/rudolfKischer/blob/main/github-metrics.svg"><br> 
