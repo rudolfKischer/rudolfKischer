@@ -17,10 +17,12 @@ rudolf.kischer@mail.mcgill.ca
 
 # Hackathons
 
-- McHacks 11 (2024): https://devpost.com/software/cast-bu2n57
-     - https://github.com/antoinedang/McHacks2023      
-- McHacks 10 (2023): https://devpost.com/software/rate-my-fit
-     - https://github.com/Yianni-Zav/PodcastGPT
+- McHacks 11 (2024):
+     - devpost: https://devpost.com/software/cast-bu2n57
+     - gitrepo: https://github.com/antoinedang/McHacks2023      
+- McHacks 10 (2023):
+     - devpost: https://devpost.com/software/rate-my-fit
+     - gitrepo: https://github.com/Yianni-Zav/PodcastGPT
 
 
 <h2 align="center"> Rudi's Stats
